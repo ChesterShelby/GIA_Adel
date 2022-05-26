@@ -1,1 +1,1 @@
-print('dsds')
+print('dуsds')
